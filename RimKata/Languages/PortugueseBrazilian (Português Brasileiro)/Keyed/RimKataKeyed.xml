@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KRWF_RimKata_SettingsCategory>RimKata</KRWF_RimKata_SettingsCategory>
+  <KRWF_RimKata_EditWeapons>Editar armas habilitadas</KRWF_RimKata_EditWeapons>
+  <KRWF_RimKata_EditArmor>Editar roupas habilitadas</KRWF_RimKata_EditArmor>
+  <KRWF_RimKata_SelectedCount>{0} selecionado(s)</KRWF_RimKata_SelectedCount>
+  <KRWF_RimKata_EnableFriendlyPawnEffects>Aplicar os efeitos de RimKata a peões não hostis</KRWF_RimKata_EnableFriendlyPawnEffects>
+  <KRWF_RimKata_EnableHostilePawnEffects>Aplicar os efeitos de RimKata a peões hostis</KRWF_RimKata_EnableHostilePawnEffects>
+
+  <KRWF_RimKata_CreepJoinerRimKataGeneChance>Chance do gene RimKata-G em recém-chegados sinistros</KRWF_RimKata_CreepJoinerRimKataGeneChance>
+  <KRWF_RimKata_CreepJoinerDependencyGeneChance>Dependência de soro entorpecente em recém-chegados sinistros</KRWF_RimKata_CreepJoinerDependencyGeneChance>
+  <KRWF_RimKata_CreepJoinerNoGeneChance>Chance de nenhum dos dois: {0}.</KRWF_RimKata_CreepJoinerNoGeneChance>
+  <KRWF_RimKata_CreepJoinerGeneChanceLimit>O total não pode passar de 100.</KRWF_RimKata_CreepJoinerGeneChanceLimit>
+  <KRWF_RimKata_AiSecondaryWeaponChance>Chance de arma secundária dos peões controlados pela IA</KRWF_RimKata_AiSecondaryWeaponChance>
+
+  <KRWF_RimKata_MaximumCandidateRange>Alcance máximo de busca automática de alvos</KRWF_RimKata_MaximumCandidateRange>
+  <KRWF_RimKata_RangePresetShort>Curto ({0} células)</KRWF_RimKata_RangePresetShort>
+  <KRWF_RimKata_RangePresetMedium>Médio ({0} células)</KRWF_RimKata_RangePresetMedium>
+  <KRWF_RimKata_RangePresetLong>Longo ({0} células)</KRWF_RimKata_RangePresetLong>
+  <KRWF_RimKata_RangePresetUnlimited>Ilimitado (alcance da arma)</KRWF_RimKata_RangePresetUnlimited>
+  <KRWF_RimKata_RangePresetCustom>Personalizado</KRWF_RimKata_RangePresetCustom>
+
+  <KRWF_RimKata_ProfileSettingsHeader>Configurações do perfil</KRWF_RimKata_ProfileSettingsHeader>
+  <KRWF_RimKata_CombatFeatures>Recursos de combate</KRWF_RimKata_CombatFeatures>
+  <KRWF_RimKata_ModFeatures>Recursos do mod</KRWF_RimKata_ModFeatures>
+  <KRWF_RimKata_VisualFeatures>Efeitos visuais</KRWF_RimKata_VisualFeatures>
+  <KRWF_RimKata_ActivationFeatures>Recursos de ativação</KRWF_RimKata_ActivationFeatures>
+
+  <KRWF_RimKata_AppliedValue>Valor aplicado</KRWF_RimKata_AppliedValue>
+  <KRWF_RimKata_Minimum>Mínimo</KRWF_RimKata_Minimum>
+  <KRWF_RimKata_Fixed>Valor fixo</KRWF_RimKata_Fixed>
+
+  <KRWF_RimKata_ChanceHeader>Combate</KRWF_RimKata_ChanceHeader>
+  <KRWF_RimKata_MeleeResponseChance>Bônus de chance de aparar</KRWF_RimKata_MeleeResponseChance>
+  <KRWF_RimKata_ResponseDisarmChance>Chance de desarmar ao aparar</KRWF_RimKata_ResponseDisarmChance>
+  <KRWF_RimKata_MeleeDodgeChance>Bônus de chance de esquiva corpo a corpo</KRWF_RimKata_MeleeDodgeChance>
+  <KRWF_RimKata_RangedDodgeChance>Chance de esquiva à distância</KRWF_RimKata_RangedDodgeChance>
+  <KRWF_RimKata_RangedDodgeDuration>Duração padrão da animação de esquiva à distância</KRWF_RimKata_RangedDodgeDuration>
+  <KRWF_RimKata_InterceptionChance>Bônus de precisão ao interceptar projéteis explosivos</KRWF_RimKata_InterceptionChance>
+  <KRWF_RimKata_InterceptionCriticalChance>Chance de neutralização imediata de projéteis explosivos</KRWF_RimKata_InterceptionCriticalChance>
+
+  <KRWF_RimKata_TimingHeader>Modificadores</KRWF_RimKata_TimingHeader>
+  <KRWF_RimKata_MovingAccuracyMultiplier>Multiplicador de precisão em movimento</KRWF_RimKata_MovingAccuracyMultiplier>
+  <KRWF_RimKata_ArmorCooldownReduction>Redução da recarga por armadura habilitada</KRWF_RimKata_ArmorCooldownReduction>
+  <KRWF_RimKata_ResponseCooldownReduction>Redução da recarga após aparar com sucesso</KRWF_RimKata_ResponseCooldownReduction>
+
+  <KRWF_RimKata_SerumHeader>Efeitos do soro entorpecente</KRWF_RimKata_SerumHeader>
+  <KRWF_RimKata_SerumResponseMultiplier>Multiplicador de aparo</KRWF_RimKata_SerumResponseMultiplier>
+  <KRWF_RimKata_SerumDodgeMultiplier>Multiplicador de esquiva à distância</KRWF_RimKata_SerumDodgeMultiplier>
+  <KRWF_RimKata_SerumInterceptionMultiplier>Multiplicador de interceptação de projéteis explosivos</KRWF_RimKata_SerumInterceptionMultiplier>
+
+  <KRWF_RimKata_ResetSettings>Redefinir tudo</KRWF_RimKata_ResetSettings>
+  <KRWF_RimKata_Profile>Perfil</KRWF_RimKata_Profile>
+  <KRWF_RimKata_ProfileDelete>Excluir perfil</KRWF_RimKata_ProfileDelete>
+  <KRWF_RimKata_ProfileAdd>Adicionar perfil</KRWF_RimKata_ProfileAdd>
+  <KRWF_RimKata_ProfileRename>Renomear</KRWF_RimKata_ProfileRename>
+  <KRWF_RimKata_ProfileDefaultName>Perfil-{0}</KRWF_RimKata_ProfileDefaultName>
+  <KRWF_RimKata_ProfileName>Nome do perfil</KRWF_RimKata_ProfileName>
+  <KRWF_RimKata_ProfileNameBlank>Digite um nome para o perfil.</KRWF_RimKata_ProfileNameBlank>
+  <KRWF_RimKata_ProfileNameTooLong>Use no máximo {0} caracteres.</KRWF_RimKata_ProfileNameTooLong>
+  <KRWF_RimKata_ProfileNameDuplicate>Já existe um perfil com esse nome.</KRWF_RimKata_ProfileNameDuplicate>
+  <KRWF_RimKata_ProfileOperationFailed>Não foi possível concluir a operação do perfil.\n\n{0}</KRWF_RimKata_ProfileOperationFailed>
+  <KRWF_RimKata_ProfileConfirm>Confirmar</KRWF_RimKata_ProfileConfirm>
+  <KRWF_RimKata_ProfileCancel>Cancelar</KRWF_RimKata_ProfileCancel>
+  <KRWF_RimKata_ResetWeaponConfirmation>Redefinir as configurações das armas?</KRWF_RimKata_ResetWeaponConfirmation>
+  <KRWF_RimKata_ResetApparelConfirmation>Redefinir as configurações das roupas?</KRWF_RimKata_ResetApparelConfirmation>
+  <KRWF_RimKata_EquipmentRefresh>Atualizar</KRWF_RimKata_EquipmentRefresh>
+  <KRWF_RimKata_EquipmentRefreshReady>Obrigado XD\nPor favor, clique em “{0}”.</KRWF_RimKata_EquipmentRefreshReady>
+  <KRWF_RimKata_EquipmentRefreshFailed>Não foi possível atualizar os dados do equipamento.\n\n{0}</KRWF_RimKata_EquipmentRefreshFailed>
+  <KRWF_RimKata_ResetSectionConfirmation>Redefinir '{0}'?</KRWF_RimKata_ResetSectionConfirmation>
+  <KRWF_RimKata_ResetProfileConfirmation>Redefinir '{0}'?</KRWF_RimKata_ResetProfileConfirmation>
+  <KRWF_RimKata_DeleteProfileConfirmation>Excluir '{0}'?</KRWF_RimKata_DeleteProfileConfirmation>
+
+  <KRWF_RimKata_CellUnit>células</KRWF_RimKata_CellUnit>
+  <KRWF_RimKata_GrowthLabel>{0} ×{1}Nv</KRWF_RimKata_GrowthLabel>
+  <KRWF_RimKata_DurationGrowthLabel>{0} ×-{1}Nv</KRWF_RimKata_DurationGrowthLabel>
+
+  <KRWF_RimKata_Search>Buscar</KRWF_RimKata_Search>
+  <KRWF_RimKata_AllowedStateFilter>Permitido</KRWF_RimKata_AllowedStateFilter>
+  <KRWF_RimKata_FilterAll>Todos</KRWF_RimKata_FilterAll>
+  <KRWF_RimKata_AllowedYes>Sim</KRWF_RimKata_AllowedYes>
+  <KRWF_RimKata_AllowedNo>Não</KRWF_RimKata_AllowedNo>
+
+  <KRWF_RimKata_WeaponDialogTitle>Armas RimKata</KRWF_RimKata_WeaponDialogTitle>
+  <KRWF_RimKata_WeaponKindFilter>Tipo de arma</KRWF_RimKata_WeaponKindFilter>
+  <KRWF_RimKata_WeaponKindMelee>Corpo a corpo</KRWF_RimKata_WeaponKindMelee>
+  <KRWF_RimKata_WeaponKindRanged>À distância</KRWF_RimKata_WeaponKindRanged>
+
+  <KRWF_RimKata_ArmorDialogTitle>Armaduras e roupas RimKata</KRWF_RimKata_ArmorDialogTitle>
+  <KRWF_RimKata_ApparelPermissionExplanation>Ativar “{0}” reduz o tempo de recarga das armas habilitadas.</KRWF_RimKata_ApparelPermissionExplanation>
+  <KRWF_RimKata_ApparelKindFilter>Tipo de roupa</KRWF_RimKata_ApparelKindFilter>
+  <KRWF_RimKata_ApparelKindHeadgear>Chapéus</KRWF_RimKata_ApparelKindHeadgear>
+  <KRWF_RimKata_ApparelKindArmor>Armadura</KRWF_RimKata_ApparelKindArmor>
+  <KRWF_RimKata_ApparelKindOuterwear>Roupa externa</KRWF_RimKata_ApparelKindOuterwear>
+  <KRWF_RimKata_ApparelKindUnderwear>Roupa íntima</KRWF_RimKata_ApparelKindUnderwear>
+  <KRWF_RimKata_ApparelKindUtility>Utilitário</KRWF_RimKata_ApparelKindUtility>
+  <KRWF_RimKata_ApparelKindOther>Outro</KRWF_RimKata_ApparelKindOther>
+
+  <KRWF_RimKata_FilteredResults>Resultados filtrados</KRWF_RimKata_FilteredResults>
+  <KRWF_RimKata_SelectFiltered>Selecionar tudo</KRWF_RimKata_SelectFiltered>
+  <KRWF_RimKata_ClearFiltered>Desmarcar tudo</KRWF_RimKata_ClearFiltered>
+  <KRWF_RimKata_NoMatchingDefs>Nenhuma definição correspondente.</KRWF_RimKata_NoMatchingDefs>
+  <KRWF_RimKata_TwoHandedWeapon>Duas mãos</KRWF_RimKata_TwoHandedWeapon>
+  <KRWF_RimKata_TwoHandedWeaponExplanation>{0}: Limita o equipamento a uma única arma.</KRWF_RimKata_TwoHandedWeaponExplanation>
+  <KRWF_RimKata_EquipmentAllowed>Usar</KRWF_RimKata_EquipmentAllowed>
+  <KRWF_RimKata_EquipmentInfo>Informações</KRWF_RimKata_EquipmentInfo>
+
+  <KRWF_RimKata_ResetSection>Redefinir</KRWF_RimKata_ResetSection>
+
+  <KRWF_RimKata_RemoveRestrictions>Remover restrições</KRWF_RimKata_RemoveRestrictions>
+  <KRWF_RimKata_WeaponButton>Armas</KRWF_RimKata_WeaponButton>
+  <KRWF_RimKata_ApparelButton>Roupas</KRWF_RimKata_ApparelButton>
+  <KRWF_RimKata_NonHumanEquipmentLabel>Não humano</KRWF_RimKata_NonHumanEquipmentLabel>
+  <KRWF_RimKata_NonHumanWeaponDialogTitle>Armas RimKata não humanas</KRWF_RimKata_NonHumanWeaponDialogTitle>
+  <KRWF_RimKata_NonHumanArmorDialogTitle>Roupas RimKata não humanas</KRWF_RimKata_NonHumanArmorDialogTitle>
+  <KRWF_RimKata_NonHumanEquipmentCategoryFilter>Categoria</KRWF_RimKata_NonHumanEquipmentCategoryFilter>
+  <KRWF_RimKata_TargetDialogTitle>Alvos da remoção de restrições</KRWF_RimKata_TargetDialogTitle>
+  <KRWF_RimKata_TargetDialogDescription>Defina permissões e perfis separadamente para alvos aliados e hostis. Os aliados incluem alvos não hostis. Os alvos ativados ignoram os requisitos de acesso normais e usam o perfil escolhido; os demais mantêm as verificações normais.</KRWF_RimKata_TargetDialogDescription>
+  <KRWF_RimKata_TargetCategoryFilter>Categoria</KRWF_RimKata_TargetCategoryFilter>
+  <KRWF_RimKata_TargetCorpseFilter>Filtro de cadáveres</KRWF_RimKata_TargetCorpseFilter>
+  <KRWF_RimKata_TargetNonCorpses>Não cadáveres</KRWF_RimKata_TargetNonCorpses>
+  <KRWF_RimKata_TargetCorpses>Cadáveres</KRWF_RimKata_TargetCorpses>
+  <KRWF_RimKata_TargetUsageFilter>Uso</KRWF_RimKata_TargetUsageFilter>
+  <KRWF_RimKata_TargetHumanlike>Xenótipos</KRWF_RimKata_TargetHumanlike>
+  <KRWF_RimKata_TargetMechanoid>Mecanoides</KRWF_RimKata_TargetMechanoid>
+  <KRWF_RimKata_TargetInsect>Insetos</KRWF_RimKata_TargetInsect>
+  <KRWF_RimKata_TargetAnimal>Animais</KRWF_RimKata_TargetAnimal>
+  <KRWF_RimKata_TargetOther>Outro</KRWF_RimKata_TargetOther>
+  <KRWF_RimKata_TargetName>Nome</KRWF_RimKata_TargetName>
+  <KRWF_RimKata_TargetEnabled>Habilitado</KRWF_RimKata_TargetEnabled>
+  <KRWF_RimKata_TargetFriendly>Aliados</KRWF_RimKata_TargetFriendly>
+  <KRWF_RimKata_TargetHostile>Hostis</KRWF_RimKata_TargetHostile>
+  <KRWF_RimKata_TargetFriendlyProfile>Perfil aliado</KRWF_RimKata_TargetFriendlyProfile>
+  <KRWF_RimKata_TargetHostileProfile>Perfil hostil</KRWF_RimKata_TargetHostileProfile>
+  <KRWF_RimKata_TargetDisabled>Desabilitado</KRWF_RimKata_TargetDisabled>
+  <KRWF_RimKata_TargetProfile>Perfil aplicado</KRWF_RimKata_TargetProfile>
+  <KRWF_RimKata_NoMatchingTargets>Nenhum alvo correspondente.</KRWF_RimKata_NoMatchingTargets>
+  <KRWF_RimKata_TargetBaseliner>Humano-base</KRWF_RimKata_TargetBaseliner>
+  <KRWF_RimKata_TargetCustomXenotype>Xenótipo personalizado</KRWF_RimKata_TargetCustomXenotype>
+  <KRWF_RimKata_TargetHybridXenotype>Xenótipo híbrido</KRWF_RimKata_TargetHybridXenotype>
+
+  <KRWF_RimKata_FeatureSecondaryWeapon>Arma secundária</KRWF_RimKata_FeatureSecondaryWeapon>
+  <KRWF_RimKata_FeatureSingleShotConversion>Conversão para disparo único</KRWF_RimKata_FeatureSingleShotConversion>
+  <KRWF_RimKata_FeatureRandomAttack>Ataque aleatório</KRWF_RimKata_FeatureRandomAttack>
+  <KRWF_RimKata_FeatureExplosiveInterception>Interceptação de explosivos</KRWF_RimKata_FeatureExplosiveInterception>
+  <KRWF_RimKata_FeatureMovingFire>Disparo em movimento</KRWF_RimKata_FeatureMovingFire>
+  <KRWF_RimKata_FeatureCloseFire>Disparo a curta distância</KRWF_RimKata_FeatureCloseFire>
+  <KRWF_RimKata_FeatureTargetRush>Investida</KRWF_RimKata_FeatureTargetRush>
+  <KRWF_RimKata_FeatureBreach>Arrombamento</KRWF_RimKata_FeatureBreach>
+  <KRWF_RimKata_FeatureResponse>aparar</KRWF_RimKata_FeatureResponse>
+  <KRWF_RimKata_FeatureRangedDodge>Esquiva à distância</KRWF_RimKata_FeatureRangedDodge>
+  <KRWF_RimKata_FeatureTumble>cambalhota</KRWF_RimKata_FeatureTumble>
+
+  <KRWF_RimKata_EnableRimKataA>RimKata-A</KRWF_RimKata_EnableRimKataA>
+  <KRWF_RimKata_EnableRimKataP>RimKata-P</KRWF_RimKata_EnableRimKataP>
+  <KRWF_RimKata_EnableRimKataI>RimKata-I</KRWF_RimKata_EnableRimKataI>
+  <KRWF_RimKata_EnableRimKataG>RimKata-G</KRWF_RimKata_EnableRimKataG>
+  <KRWF_RimKata_EnableSerumDependency>Dependência de soro entorpecente</KRWF_RimKata_EnableSerumDependency>
+  <KRWF_RimKata_TraitSelection>Selecionar traços</KRWF_RimKata_TraitSelection>
+  <KRWF_RimKata_ShootingLevelRequirement>Nív. de tiro</KRWF_RimKata_ShootingLevelRequirement>
+  <KRWF_RimKata_MeleeLevelRequirement>Nív. de combate corpo a corpo</KRWF_RimKata_MeleeLevelRequirement>
+  <KRWF_RimKata_ResetTraitSelection>Redefinir seleção</KRWF_RimKata_ResetTraitSelection>
+  <KRWF_RimKata_QualificationDescription>Prevê e reage a tiroteios a curta distância. Pode usar RimKata.</KRWF_RimKata_QualificationDescription>
+  <KRWF_RimKata_QualificationRequirements>Requisitos</KRWF_RimKata_QualificationRequirements>
+  <KRWF_RimKata_QualificationTraits>Traços ({0})</KRWF_RimKata_QualificationTraits>
+  <KRWF_RimKata_QualificationShooting>Nível de tiro</KRWF_RimKata_QualificationShooting>
+  <KRWF_RimKata_QualificationMelee>Nível de combate corpo a corpo</KRWF_RimKata_QualificationMelee>
+  <KRWF_RimKata_CandidateLimitHeader>Limites de candidatos</KRWF_RimKata_CandidateLimitHeader>
+  <KRWF_RimKata_TouchCandidateLimit>Alcance corpo a corpo</KRWF_RimKata_TouchCandidateLimit>
+  <KRWF_RimKata_ShortCandidateLimit>Curto alcance</KRWF_RimKata_ShortCandidateLimit>
+  <KRWF_RimKata_MediumCandidateLimit>Médio alcance</KRWF_RimKata_MediumCandidateLimit>
+  <KRWF_RimKata_LongCandidateLimit>Longo alcance</KRWF_RimKata_LongCandidateLimit>
+  <KRWF_RimKata_BeyondCandidateLimit>Além do longo alcance</KRWF_RimKata_BeyondCandidateLimit>
+  <KRWF_RimKata_VisualGuidanceHeader>Orientação visual</KRWF_RimKata_VisualGuidanceHeader>
+  <KRWF_RimKata_ShowRangedWeaponCooldown>Recarga da arma à distância</KRWF_RimKata_ShowRangedWeaponCooldown>
+  <KRWF_RimKata_ShowMeleeWeaponAimTime>Tempo de mira da arma corpo a corpo</KRWF_RimKata_ShowMeleeWeaponAimTime>
+  <KRWF_RimKata_ShowFocusedAttackLine>Linha do alvo do ataque focado</KRWF_RimKata_ShowFocusedAttackLine>
+  <KRWF_RimKata_ModVisualsHeader>Animações</KRWF_RimKata_ModVisualsHeader>
+  <KRWF_RimKata_ImmediateTumbleChance>Chance de cambalhota imediata</KRWF_RimKata_ImmediateTumbleChance>
+  <KRWF_RimKata_ResponseAttackerSpinChance>Chance de girar o atacante ao aparar</KRWF_RimKata_ResponseAttackerSpinChance>
+  <KRWF_RimKata_ResponseAccidentalFireChance>Chance de disparo perdido após aparar</KRWF_RimKata_ResponseAccidentalFireChance>
+  <KRWF_RimKata_ResponseWeaponDurabilityLossChance>Chance de perda de durabilidade da arma após aparar com sucesso</KRWF_RimKata_ResponseWeaponDurabilityLossChance>
+  <KRWF_RimKata_ResponseWeaponDurabilityLossAmount>Durabilidade da arma perdida após aparar com sucesso</KRWF_RimKata_ResponseWeaponDurabilityLossAmount>
+  <KRWF_RimKata_UnarmedWeaponStealChance>Chance de roubar a arma após aparar desarmado com sucesso</KRWF_RimKata_UnarmedWeaponStealChance>
+
+  <KRWF_RimKata_InspectSlotPrimary>Principal</KRWF_RimKata_InspectSlotPrimary>
+  <KRWF_RimKata_InspectSlotSecondary>Secundária</KRWF_RimKata_InspectSlotSecondary>
+  <KRWF_RimKata_InspectIntercepting>{0}: interceptando {1}</KRWF_RimKata_InspectIntercepting>
+  <KRWF_RimKata_InspectCachedTarget>{0}: próximo alvo {1}</KRWF_RimKata_InspectCachedTarget>
+  <KRWF_RimKata_InspectCooldown>{0}: recarregando</KRWF_RimKata_InspectCooldown>
+  <KRWF_RimKata_SecondaryMenuAttack>Atacar</KRWF_RimKata_SecondaryMenuAttack>
+  <KRWF_RimKata_SecondaryMissingHand>Não é possível equipar uma arma secundária sem uma mão.</KRWF_RimKata_SecondaryMissingHand>
+  <KRWF_RimKata_SecondaryMenuSwap>Trocar</KRWF_RimKata_SecondaryMenuSwap>
+  <KRWF_RimKata_SecondaryMenuSwapCombat>Trocar (em combate)</KRWF_RimKata_SecondaryMenuSwapCombat>
+  <KRWF_RimKata_DebugMenuLabel>Depuração do RimKata</KRWF_RimKata_DebugMenuLabel>
+  <KRWF_RimKata_DebugHUDOption>HUD</KRWF_RimKata_DebugHUDOption>
+  <KRWF_RimKata_DebugSearchRangeOption>Alcance de busca</KRWF_RimKata_DebugSearchRangeOption>
+
+  <KRWF_RimKata_RangePresetShortFallback>Curto (alcance da arma)</KRWF_RimKata_RangePresetShortFallback>
+  <KRWF_RimKata_RangePresetMediumFallback>Médio (alcance da arma)</KRWF_RimKata_RangePresetMediumFallback>
+  <KRWF_RimKata_RangePresetLongFallback>Longo (alcance da arma)</KRWF_RimKata_RangePresetLongFallback>
+  <KRWF_RimKata_CooldownVanillaBreakdown>Cálculo do multiplicador de recarga do RimKata:</KRWF_RimKata_CooldownVanillaBreakdown>
+  <KRWF_RimKata_CooldownVanillaFactor>Multiplicador base de recarga à distância: {0}</KRWF_RimKata_CooldownVanillaFactor>
+  <KRWF_RimKata_CooldownArmorFactorApplied>Modificador da armadura habilitada: ×{0} (aplicado)</KRWF_RimKata_CooldownArmorFactorApplied>
+  <KRWF_RimKata_CooldownArmorFactorInactive>Modificador da armadura habilitada: ×100% (nenhuma armadura habilitada equipada)</KRWF_RimKata_CooldownArmorFactorInactive>
+  <KRWF_RimKata_MeleeFallChance>Chance de cair</KRWF_RimKata_MeleeFallChance>
+  <KRWF_RimKata_FeatureProneFire>Tiro deitado</KRWF_RimKata_FeatureProneFire>
+  <KRWF_RimKata_FeatureCrawlFire>Disparar enquanto rasteja</KRWF_RimKata_FeatureCrawlFire>
+  <KRWF_RimKata_ProneMissChance>Chance adicional de não ser atingido enquanto deitado</KRWF_RimKata_ProneMissChance>
+  <KRWF_RimKata_ProneHuntingStealthBonus>Bônus de furtividade na caça enquanto deitado</KRWF_RimKata_ProneHuntingStealthBonus>
+  <KRWF_RimKata_ProneResumeDelay>Tempo de espera antes de se deitar novamente</KRWF_RimKata_ProneResumeDelay>
+  <KRWF_RimKata_MeleeFallDuration>Tempo no chão após cair</KRWF_RimKata_MeleeFallDuration>
+  <KRWF_RimKata_FallenFriendlyFireAvoidChance>Evitar fogo amigo enquanto caído</KRWF_RimKata_FallenFriendlyFireAvoidChance>
+  <KRWF_RimKata_BreachSlideDuration>Tempo de movimento durante o arrombamento</KRWF_RimKata_BreachSlideDuration>
+  <KRWF_RimKata_BreachWaitDuration>Tempo de espera após chegar ao destino do arrombamento</KRWF_RimKata_BreachWaitDuration>
+  <KRWF_RimKata_DefaultsHeader>Valores padrão</KRWF_RimKata_DefaultsHeader>
+  <KRWF_RimKata_CrawlFireDefaultAllowed>Permitir disparar enquanto rasteja</KRWF_RimKata_CrawlFireDefaultAllowed>
+  <KRWF_RimKata_AutoSubdueReleaseDowned>Soltar alvos caídos da subjugação automática</KRWF_RimKata_AutoSubdueReleaseDowned>
+  <KRWF_RimKata_SmoothAimTransition>Transições suaves de mira</KRWF_RimKata_SmoothAimTransition>
+  <KRWF_RimKata_FeatureSubdue>Subjugar</KRWF_RimKata_FeatureSubdue>
+  <KRWF_RimKata_FeatureAutoSubdue>Subjugação automática</KRWF_RimKata_FeatureAutoSubdue>
+  <KRWF_RimKata_Subdue>Subjugar</KRWF_RimKata_Subdue>
+  <KRWF_RimKata_SubdueMassLimit>Limite de massa para subjugar</KRWF_RimKata_SubdueMassLimit>
+  <KRWF_RimKata_SubdueImpactStunDuration>Duração do atordoamento por impacto ao subjugar</KRWF_RimKata_SubdueImpactStunDuration>
+  <KRWF_RimKata_AutoSubdueHoldDuration>Tempo de retenção na subjugação automática</KRWF_RimKata_AutoSubdueHoldDuration>
+  <KRWF_RimKata_SubdueAttack>Ataque de subjugação</KRWF_RimKata_SubdueAttack>
+  <KRWF_RimKata_SubdueAttackDesc>Ataca o personagem segurado. Desativado no início de cada subjugação.</KRWF_RimKata_SubdueAttackDesc>
+  <KRWF_RimKata_SubdueActions>Ações de subjugação</KRWF_RimKata_SubdueActions>
+  <KRWF_RimKata_SubdueActionsDesc>Arremessa ou coloca no chão o personagem segurado.</KRWF_RimKata_SubdueActionsDesc>
+  <KRWF_RimKata_SubdueThrow>Arremessar</KRWF_RimKata_SubdueThrow>
+  <KRWF_RimKata_SubdueTooHeavy>{0} está pesado demais (limite: {1} kg).</KRWF_RimKata_SubdueTooHeavy>
+  <KRWF_RimKata_SubdueUnavailable>Não é possível subjugar este alvo.</KRWF_RimKata_SubdueUnavailable>
+  <KRWF_RimKata_SubdueDesc>Levanta e segura um personagem dentro do limite de massa permitido.</KRWF_RimKata_SubdueDesc>
+  <KRWF_RimKata_SubdueAllowAttack>Permitir ataques</KRWF_RimKata_SubdueAllowAttack>
+  <KRWF_RimKata_SubdueAllowAttackDesc>Permite atacar enquanto segura um personagem. Desativar esta opção interrompe o ataque atual; reativá-la não retoma esse ataque automaticamente.</KRWF_RimKata_SubdueAllowAttackDesc>
+  <KRWF_RimKata_SubdueAttackNotAllowed>Os ataques estão desativados.</KRWF_RimKata_SubdueAttackNotAllowed>
+  <KRWF_RimKata_FeatureSubdueDamageTransfer>Transferência de dano</KRWF_RimKata_FeatureSubdueDamageTransfer>
+  <KRWF_RimKata_FeatureSubdueDamageTransferDesc>Transfere o dano recebido para o personagem subjugado. Quando desativado, esquivar ou entrar em combate próximo libera o personagem.</KRWF_RimKata_FeatureSubdueDamageTransferDesc>
+  <KRWF_RimKata_FeatureSliding>Deslize</KRWF_RimKata_FeatureSliding>
+  <KRWF_RimKata_FeatureShakeOff>Sacudida</KRWF_RimKata_FeatureShakeOff>
+  <KRWF_RimKata_FeatureDirectionalFire>Disparo indiscriminado</KRWF_RimKata_FeatureDirectionalFire>
+  <KRWF_RimKata_SlidingChance>Chance de deslize</KRWF_RimKata_SlidingChance>
+  <KRWF_RimKata_ShakeOffChance>Chance de sacudida</KRWF_RimKata_ShakeOffChance>
+
+  <KRWF_RimKata_GeneProbability>Probabilidade dos genes</KRWF_RimKata_GeneProbability>
+  <KRWF_RimKata_GeneProbabilityPresent>Probabilidade positiva</KRWF_RimKata_GeneProbabilityPresent>
+  <KRWF_RimKata_GeneProbabilityAbsent>Sem probabilidade</KRWF_RimKata_GeneProbabilityAbsent>
+  <KRWF_RimKata_ResetAllGeneProbabilities>Redefinir tudo</KRWF_RimKata_ResetAllGeneProbabilities>
+  <KRWF_RimKata_ResetFilteredGeneProbabilities>Redefinir resultados filtrados</KRWF_RimKata_ResetFilteredGeneProbabilities>
+  <KRWF_RimKata_TargetShambler>Trôpego</KRWF_RimKata_TargetShambler>
+  <KRWF_RimKata_GeneProbabilityCreepJoiner>Recém-chegado sinistro</KRWF_RimKata_GeneProbabilityCreepJoiner>
+
+  <KRWF_RimKata_StrengthEnhancement>Reforço muscular</KRWF_RimKata_StrengthEnhancement>
+  <KRWF_RimKata_StrengthPermissionExplanation>Ativar “{0}” permite equipar duas armas marcadas como “{1}”.</KRWF_RimKata_StrengthPermissionExplanation>
+  <KRWF_RimKata_StrengthIncrease>Aumento de força</KRWF_RimKata_StrengthIncrease>
+  <KRWF_RimKata_AllowedStrengthIncrease>Aumento de força do equipamento permitido</KRWF_RimKata_AllowedStrengthIncrease>
+  <KRWF_RimKata_IndependentStrengthIncrease>Força adicional independentemente da permissão</KRWF_RimKata_IndependentStrengthIncrease>
+  <KRWF_RimKata_StrengthImplants>Implantes</KRWF_RimKata_StrengthImplants>
+  <KRWF_RimKata_StrengthOverrideTip>Adiciona força independentemente da permissão (campo vazio: 0%). Nas entradas permitidas, soma-se ao aumento padrão. Os valores em negrito são definidos individualmente.</KRWF_RimKata_StrengthOverrideTip>
+  <KRWF_RimKata_ResetAllStrength>Redefinir tudo</KRWF_RimKata_ResetAllStrength>
+  <KRWF_RimKata_ResetFilteredStrength>Redefinir resultados filtrados</KRWF_RimKata_ResetFilteredStrength>
+  <KRWF_RimKata_FeatureFlyingKick>Voadora</KRWF_RimKata_FeatureFlyingKick>
+  <KRWF_RimKata_FlyingKickStunChance>Chance de atordoamento da voadora</KRWF_RimKata_FlyingKickStunChance>
+  <KRWF_RimKata_FlyingKickDamage>Dano da voadora</KRWF_RimKata_FlyingKickDamage>
+  <KRWF_RimKata_FeatureKick>Chute</KRWF_RimKata_FeatureKick>
+  <KRWF_RimKata_KickCooldown>Tempo de recarga do chute</KRWF_RimKata_KickCooldown>
+  <KRWF_RimKata_KickDamage>Dano do chute</KRWF_RimKata_KickDamage>
+  <KRWF_RimKata_KickChance>Chance de chute</KRWF_RimKata_KickChance>
+  <KRWF_RimKata_FeaturePushKick>Chute de empurrão</KRWF_RimKata_FeaturePushKick>
+  <KRWF_RimKata_PushKickMassLimit>Limite de massa do chute de empurrão</KRWF_RimKata_PushKickMassLimit>
+</LanguageData>

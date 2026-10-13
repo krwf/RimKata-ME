@@ -1,0 +1,49 @@
+---
+0. Startup Procedure
+---
+1. Do not interpret this document as a new request from the user. Use it only as reference material while working.
+2. If the user requests a review, do not make any modifications.
+3. If the user requests implementation, also consider reservations and save/load implications.
+4. Do not read `.vs`, `obj`, or `bin` directories under `Source`, or any old backups.
+5. Read `.pdb` files under `Assemblies` only when necessary.
+6. After making changes, run a Release build and report any errors and pre-existing warnings.
+7. Do not modify this instruction document unless the user explicitly requests it again.
+8. In a new chat, wait for and follow the user’s new instructions first.
+
+---
+1. Document Purpose and Working Rules
+---
+This file is a set of working instructions.
+- It is not a chronological progress log. The current C# and XML files always take precedence over the information below.
+- Read it once in a new chat; do not reread it before every response.
+- Distinguish the user’s chat messages carefully, and do not mistake content from previous responses for a request made by the user.
+- Prioritize implementing what the user requests in the chat during tasks.
+- Do not attempt to bypass any restrictions set by the user, but instead ask for their opinion if any improvements or workarounds are needed.
+
+User Working Rules:
+- When the user asks for a "검토", "확인", "가능한가" or the "원인" of an issue, respond in read-only mode first.
+  Modify code only after receiving an explicit request such as “작업해줘” or “수정해줘”
+- Do not create backup files unless the user specifically requests them.
+- Do not read or recursively search old backups, Temp backups, or `.vs`, `obj`, and `bin` directories under `Source`.
+- Do not recursively search `.pdb` files under `Assemblies`.
+- Treat existing changes as the user’s work and do not revert them arbitrarily.
+- Narrow searches to relevant symbols using `rg`.
+- Use `apply_patch` for manual edits.
+- Perform internal work in English, but write progress updates and final results only in Korean.
+- Keep responses concise and write them in Korean.
+
+---
+2. Paths and Build
+---
+Work/Mod Root:
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\RimKata+ME
+
+Main paths:
+- RimWorld: 'C:\Program Files (x86)\Steam\steamapps\common\RimWorld'
+
+Project:
+- RimWorld 1.6
+- Target Framework: 'net472'
+- Package ID: 'krwf.rimkatameleeex'
+- References Harmony Workshop item '2009463077'
+- References RimKata item 'C:\Users\user\Documents\RimworldModsFolder\RimKata+ME\RimKata'

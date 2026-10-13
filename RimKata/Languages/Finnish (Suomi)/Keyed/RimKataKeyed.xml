@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KRWF_RimKata_SettingsCategory>RimKata</KRWF_RimKata_SettingsCategory>
+  <KRWF_RimKata_EditWeapons>Muokkaa käytössä olevia aseita</KRWF_RimKata_EditWeapons>
+  <KRWF_RimKata_EditArmor>Muokkaa käytössä olevia vaatteita</KRWF_RimKata_EditArmor>
+  <KRWF_RimKata_SelectedCount>{0} valittu</KRWF_RimKata_SelectedCount>
+  <KRWF_RimKata_EnableFriendlyPawnEffects>Käytä RimKata-vaikutuksia ei-vihamielisiin hahmoihin</KRWF_RimKata_EnableFriendlyPawnEffects>
+  <KRWF_RimKata_EnableHostilePawnEffects>Käytä RimKata-vaikutuksia vihamielisiin hahmoihin</KRWF_RimKata_EnableHostilePawnEffects>
+
+  <KRWF_RimKata_CreepJoinerRimKataGeneChance>Creepjoiner-hahmojen RimKata-G-geenin mahdollisuus</KRWF_RimKata_CreepJoinerRimKataGeneChance>
+  <KRWF_RimKata_CreepJoinerDependencyGeneChance>Creepjoiner-hahmojen tunteita turruttavan seerumin riippuvuus</KRWF_RimKata_CreepJoinerDependencyGeneChance>
+  <KRWF_RimKata_CreepJoinerNoGeneChance>Ei kumpaakaan: {0}.</KRWF_RimKata_CreepJoinerNoGeneChance>
+  <KRWF_RimKata_CreepJoinerGeneChanceLimit>Yhteismäärä ei voi ylittää arvoa 100.</KRWF_RimKata_CreepJoinerGeneChanceLimit>
+  <KRWF_RimKata_AiSecondaryWeaponChance>Tekoälyhahmojen toissijaisen aseen mahdollisuus</KRWF_RimKata_AiSecondaryWeaponChance>
+
+  <KRWF_RimKata_MaximumCandidateRange>Automaattikohteiden haun enimmäiskantama</KRWF_RimKata_MaximumCandidateRange>
+  <KRWF_RimKata_RangePresetShort>Lyhyt ({0} ruutua)</KRWF_RimKata_RangePresetShort>
+  <KRWF_RimKata_RangePresetMedium>Keskipitkä ({0} ruutua)</KRWF_RimKata_RangePresetMedium>
+  <KRWF_RimKata_RangePresetLong>Pitkä ({0} ruutua)</KRWF_RimKata_RangePresetLong>
+  <KRWF_RimKata_RangePresetUnlimited>Rajoittamaton (aseen kantama)</KRWF_RimKata_RangePresetUnlimited>
+  <KRWF_RimKata_RangePresetCustom>Mukautettu</KRWF_RimKata_RangePresetCustom>
+
+  <KRWF_RimKata_ProfileSettingsHeader>Profiiliasetukset</KRWF_RimKata_ProfileSettingsHeader>
+  <KRWF_RimKata_CombatFeatures>Taisteluominaisuudet</KRWF_RimKata_CombatFeatures>
+  <KRWF_RimKata_ModFeatures>Modin ominaisuudet</KRWF_RimKata_ModFeatures>
+  <KRWF_RimKata_VisualFeatures>Visuaaliset tehosteet</KRWF_RimKata_VisualFeatures>
+  <KRWF_RimKata_ActivationFeatures>Aktivointiominaisuudet</KRWF_RimKata_ActivationFeatures>
+
+  <KRWF_RimKata_AppliedValue>Käytetty arvo</KRWF_RimKata_AppliedValue>
+  <KRWF_RimKata_Minimum>Vähimmäisarvo</KRWF_RimKata_Minimum>
+  <KRWF_RimKata_Fixed>Kiinteä arvo</KRWF_RimKata_Fixed>
+
+  <KRWF_RimKata_ChanceHeader>Taistelu</KRWF_RimKata_ChanceHeader>
+  <KRWF_RimKata_MeleeResponseChance>Torjuntamahdollisuuden bonus</KRWF_RimKata_MeleeResponseChance>
+  <KRWF_RimKata_ResponseDisarmChance>Aseista riisumisen todennäköisyys torjunnassa</KRWF_RimKata_ResponseDisarmChance>
+  <KRWF_RimKata_MeleeDodgeChance>Lähitaisteluväistön bonus</KRWF_RimKata_MeleeDodgeChance>
+  <KRWF_RimKata_RangedDodgeChance>Etähyökkäyksen väistömahdollisuus</KRWF_RimKata_RangedDodgeChance>
+  <KRWF_RimKata_RangedDodgeDuration>Etähyökkäyksen väistöanimaation vakioaika</KRWF_RimKata_RangedDodgeDuration>
+  <KRWF_RimKata_InterceptionChance>Räjähtävien ammusten torjunnan tarkkuusbonus</KRWF_RimKata_InterceptionChance>
+  <KRWF_RimKata_InterceptionCriticalChance>Räjähtävän ammuksen välittömän neutraloinnin mahdollisuus</KRWF_RimKata_InterceptionCriticalChance>
+
+  <KRWF_RimKata_TimingHeader>Muuntimet</KRWF_RimKata_TimingHeader>
+  <KRWF_RimKata_MovingAccuracyMultiplier>Liikkumisen tarkkuuskerroin</KRWF_RimKata_MovingAccuracyMultiplier>
+  <KRWF_RimKata_ArmorCooldownReduction>Käytössä olevan haarniskan palautumisajan lyhennys</KRWF_RimKata_ArmorCooldownReduction>
+  <KRWF_RimKata_ResponseCooldownReduction>Palautumisajan lyhennys onnistuneen torjunnan jälkeen</KRWF_RimKata_ResponseCooldownReduction>
+
+  <KRWF_RimKata_SerumHeader>Tunteita turruttavan seerumin vaikutukset</KRWF_RimKata_SerumHeader>
+  <KRWF_RimKata_SerumResponseMultiplier>Torjuntakerroin</KRWF_RimKata_SerumResponseMultiplier>
+  <KRWF_RimKata_SerumDodgeMultiplier>Etähyökkäyksen väistökerroin</KRWF_RimKata_SerumDodgeMultiplier>
+  <KRWF_RimKata_SerumInterceptionMultiplier>Räjähtävien ammusten torjuntakerroin</KRWF_RimKata_SerumInterceptionMultiplier>
+
+  <KRWF_RimKata_ResetSettings>Palauta kaikki</KRWF_RimKata_ResetSettings>
+  <KRWF_RimKata_Profile>Profiili</KRWF_RimKata_Profile>
+  <KRWF_RimKata_ProfileDelete>Poista profiili</KRWF_RimKata_ProfileDelete>
+  <KRWF_RimKata_ProfileAdd>Lisää profiili</KRWF_RimKata_ProfileAdd>
+  <KRWF_RimKata_ProfileRename>Nimeä uudelleen</KRWF_RimKata_ProfileRename>
+  <KRWF_RimKata_ProfileDefaultName>Profiili-{0}</KRWF_RimKata_ProfileDefaultName>
+  <KRWF_RimKata_ProfileName>Profiilin nimi</KRWF_RimKata_ProfileName>
+  <KRWF_RimKata_ProfileNameBlank>Anna profiilin nimi.</KRWF_RimKata_ProfileNameBlank>
+  <KRWF_RimKata_ProfileNameTooLong>Käytä enintään {0} merkkiä.</KRWF_RimKata_ProfileNameTooLong>
+  <KRWF_RimKata_ProfileNameDuplicate>Tämänniminen profiili on jo olemassa.</KRWF_RimKata_ProfileNameDuplicate>
+  <KRWF_RimKata_ProfileOperationFailed>Profiilitoimintoa ei voitu suorittaa.\n\n{0}</KRWF_RimKata_ProfileOperationFailed>
+  <KRWF_RimKata_ProfileConfirm>Vahvista</KRWF_RimKata_ProfileConfirm>
+  <KRWF_RimKata_ProfileCancel>Peruuta</KRWF_RimKata_ProfileCancel>
+  <KRWF_RimKata_ResetWeaponConfirmation>Palautetaanko aseasetukset?</KRWF_RimKata_ResetWeaponConfirmation>
+  <KRWF_RimKata_ResetApparelConfirmation>Palautetaanko vaateasetukset?</KRWF_RimKata_ResetApparelConfirmation>
+  <KRWF_RimKata_EquipmentRefresh>Päivitä</KRWF_RimKata_EquipmentRefresh>
+  <KRWF_RimKata_EquipmentRefreshReady>Kiitos XD\nPaina ”{0}”.</KRWF_RimKata_EquipmentRefreshReady>
+  <KRWF_RimKata_EquipmentRefreshFailed>Varustetietojen päivittäminen epäonnistui.\n\n{0}</KRWF_RimKata_EquipmentRefreshFailed>
+  <KRWF_RimKata_ResetSectionConfirmation>Palautetaanko '{0}'?</KRWF_RimKata_ResetSectionConfirmation>
+  <KRWF_RimKata_ResetProfileConfirmation>Palautetaanko '{0}'?</KRWF_RimKata_ResetProfileConfirmation>
+  <KRWF_RimKata_DeleteProfileConfirmation>Poistetaanko '{0}'?</KRWF_RimKata_DeleteProfileConfirmation>
+
+  <KRWF_RimKata_CellUnit>ruutua</KRWF_RimKata_CellUnit>
+  <KRWF_RimKata_GrowthLabel>{0} ×{1} tas.</KRWF_RimKata_GrowthLabel>
+  <KRWF_RimKata_DurationGrowthLabel>{0} ×-{1} tas.</KRWF_RimKata_DurationGrowthLabel>
+
+  <KRWF_RimKata_Search>Haku</KRWF_RimKata_Search>
+  <KRWF_RimKata_AllowedStateFilter>Sallittu</KRWF_RimKata_AllowedStateFilter>
+  <KRWF_RimKata_FilterAll>Kaikki</KRWF_RimKata_FilterAll>
+  <KRWF_RimKata_AllowedYes>Kyllä</KRWF_RimKata_AllowedYes>
+  <KRWF_RimKata_AllowedNo>Ei</KRWF_RimKata_AllowedNo>
+
+  <KRWF_RimKata_WeaponDialogTitle>RimKata-aseet</KRWF_RimKata_WeaponDialogTitle>
+  <KRWF_RimKata_WeaponKindFilter>Asetyyppi</KRWF_RimKata_WeaponKindFilter>
+  <KRWF_RimKata_WeaponKindMelee>Lähitaistelu</KRWF_RimKata_WeaponKindMelee>
+  <KRWF_RimKata_WeaponKindRanged>Etätaistelu</KRWF_RimKata_WeaponKindRanged>
+
+  <KRWF_RimKata_ArmorDialogTitle>RimKata-haarniskat ja -vaatteet</KRWF_RimKata_ArmorDialogTitle>
+  <KRWF_RimKata_ApparelPermissionExplanation>”{0}”-valinnan käyttöönotto lyhentää käytössä olevien aseiden palautumisaikaa.</KRWF_RimKata_ApparelPermissionExplanation>
+  <KRWF_RimKata_ApparelKindFilter>Vaatetyyppi</KRWF_RimKata_ApparelKindFilter>
+  <KRWF_RimKata_ApparelKindHeadgear>Päähine</KRWF_RimKata_ApparelKindHeadgear>
+  <KRWF_RimKata_ApparelKindArmor>Haarniska</KRWF_RimKata_ApparelKindArmor>
+  <KRWF_RimKata_ApparelKindOuterwear>Päällysvaatteet</KRWF_RimKata_ApparelKindOuterwear>
+  <KRWF_RimKata_ApparelKindUnderwear>Alusvaatteet</KRWF_RimKata_ApparelKindUnderwear>
+  <KRWF_RimKata_ApparelKindUtility>Apuväline</KRWF_RimKata_ApparelKindUtility>
+  <KRWF_RimKata_ApparelKindOther>Muu</KRWF_RimKata_ApparelKindOther>
+
+  <KRWF_RimKata_FilteredResults>Suodatetut tulokset</KRWF_RimKata_FilteredResults>
+  <KRWF_RimKata_SelectFiltered>Valitse kaikki</KRWF_RimKata_SelectFiltered>
+  <KRWF_RimKata_ClearFiltered>Poista kaikki valinnat</KRWF_RimKata_ClearFiltered>
+  <KRWF_RimKata_NoMatchingDefs>Vastaavia määritelmiä ei ole.</KRWF_RimKata_NoMatchingDefs>
+  <KRWF_RimKata_TwoHandedWeapon>Kaksikätinen</KRWF_RimKata_TwoHandedWeapon>
+  <KRWF_RimKata_TwoHandedWeaponExplanation>{0}: Rajoittaa varustuksen yhteen aseeseen.</KRWF_RimKata_TwoHandedWeaponExplanation>
+  <KRWF_RimKata_EquipmentAllowed>Käytä</KRWF_RimKata_EquipmentAllowed>
+  <KRWF_RimKata_EquipmentInfo>Tiedot</KRWF_RimKata_EquipmentInfo>
+
+  <KRWF_RimKata_ResetSection>Palauta</KRWF_RimKata_ResetSection>
+
+  <KRWF_RimKata_RemoveRestrictions>Poista rajoitukset</KRWF_RimKata_RemoveRestrictions>
+  <KRWF_RimKata_WeaponButton>Aseet</KRWF_RimKata_WeaponButton>
+  <KRWF_RimKata_ApparelButton>Vaatteet</KRWF_RimKata_ApparelButton>
+  <KRWF_RimKata_NonHumanEquipmentLabel>Ei-ihmiset</KRWF_RimKata_NonHumanEquipmentLabel>
+  <KRWF_RimKata_NonHumanWeaponDialogTitle>Ei-ihmisten RimKata-aseet</KRWF_RimKata_NonHumanWeaponDialogTitle>
+  <KRWF_RimKata_NonHumanArmorDialogTitle>Ei-ihmisten RimKata-vaatteet</KRWF_RimKata_NonHumanArmorDialogTitle>
+  <KRWF_RimKata_NonHumanEquipmentCategoryFilter>Luokka</KRWF_RimKata_NonHumanEquipmentCategoryFilter>
+  <KRWF_RimKata_TargetDialogTitle>Rajoitusten poistamisen kohteet</KRWF_RimKata_TargetDialogTitle>
+  <KRWF_RimKata_TargetDialogDescription>Määritä salliminen ja profiilit erikseen ystävällisille ja vihamielisille kohteille. Ystävällisiin kuuluvat myös ei-vihamieliset kohteet. Sallitut kohteet ohittavat tavalliset kelpoisuusvaatimukset ja käyttävät valittua profiilia; muille säilyvät tavalliset tarkistukset.</KRWF_RimKata_TargetDialogDescription>
+  <KRWF_RimKata_TargetCategoryFilter>Luokka</KRWF_RimKata_TargetCategoryFilter>
+  <KRWF_RimKata_TargetCorpseFilter>Ruumissuodatin</KRWF_RimKata_TargetCorpseFilter>
+  <KRWF_RimKata_TargetNonCorpses>Muut kuin ruumiit</KRWF_RimKata_TargetNonCorpses>
+  <KRWF_RimKata_TargetCorpses>Ruumiit</KRWF_RimKata_TargetCorpses>
+  <KRWF_RimKata_TargetUsageFilter>Käyttö</KRWF_RimKata_TargetUsageFilter>
+  <KRWF_RimKata_TargetHumanlike>Ksenotyypit</KRWF_RimKata_TargetHumanlike>
+  <KRWF_RimKata_TargetMechanoid>Mekanoidit</KRWF_RimKata_TargetMechanoid>
+  <KRWF_RimKata_TargetInsect>Hyönteiset</KRWF_RimKata_TargetInsect>
+  <KRWF_RimKata_TargetAnimal>Eläimet</KRWF_RimKata_TargetAnimal>
+  <KRWF_RimKata_TargetOther>Muu</KRWF_RimKata_TargetOther>
+  <KRWF_RimKata_TargetName>Nimi</KRWF_RimKata_TargetName>
+  <KRWF_RimKata_TargetEnabled>Käytössä</KRWF_RimKata_TargetEnabled>
+  <KRWF_RimKata_TargetFriendly>Ystävälliset</KRWF_RimKata_TargetFriendly>
+  <KRWF_RimKata_TargetHostile>Vihamieliset</KRWF_RimKata_TargetHostile>
+  <KRWF_RimKata_TargetFriendlyProfile>Ystävällisten profiili</KRWF_RimKata_TargetFriendlyProfile>
+  <KRWF_RimKata_TargetHostileProfile>Vihamielisten profiili</KRWF_RimKata_TargetHostileProfile>
+  <KRWF_RimKata_TargetDisabled>Pois käytöstä</KRWF_RimKata_TargetDisabled>
+  <KRWF_RimKata_TargetProfile>Käytetty profiili</KRWF_RimKata_TargetProfile>
+  <KRWF_RimKata_NoMatchingTargets>Vastaavia kohteita ei ole.</KRWF_RimKata_NoMatchingTargets>
+  <KRWF_RimKata_TargetBaseliner>Perusihminen</KRWF_RimKata_TargetBaseliner>
+  <KRWF_RimKata_TargetCustomXenotype>Mukautettu ksenotyyppi</KRWF_RimKata_TargetCustomXenotype>
+  <KRWF_RimKata_TargetHybridXenotype>Hybridiksenotyyppi</KRWF_RimKata_TargetHybridXenotype>
+
+  <KRWF_RimKata_FeatureSecondaryWeapon>Toissijainen ase</KRWF_RimKata_FeatureSecondaryWeapon>
+  <KRWF_RimKata_FeatureSingleShotConversion>Muunto kertalaukaukseen</KRWF_RimKata_FeatureSingleShotConversion>
+  <KRWF_RimKata_FeatureRandomAttack>Satunnainen hyökkäys</KRWF_RimKata_FeatureRandomAttack>
+  <KRWF_RimKata_FeatureExplosiveInterception>Räjähteiden torjunta</KRWF_RimKata_FeatureExplosiveInterception>
+  <KRWF_RimKata_FeatureMovingFire>Ampuminen liikkeessä</KRWF_RimKata_FeatureMovingFire>
+  <KRWF_RimKata_FeatureCloseFire>Ampuminen lähietäisyydeltä</KRWF_RimKata_FeatureCloseFire>
+  <KRWF_RimKata_FeatureTargetRush>Rynnäkkö</KRWF_RimKata_FeatureTargetRush>
+  <KRWF_RimKata_FeatureBreach>Läpimurto</KRWF_RimKata_FeatureBreach>
+  <KRWF_RimKata_FeatureResponse>Torjunta</KRWF_RimKata_FeatureResponse>
+  <KRWF_RimKata_FeatureRangedDodge>Etähyökkäyksen väistö</KRWF_RimKata_FeatureRangedDodge>
+  <KRWF_RimKata_FeatureTumble>Kuperkeikka</KRWF_RimKata_FeatureTumble>
+
+  <KRWF_RimKata_EnableRimKataA>RimKata-A</KRWF_RimKata_EnableRimKataA>
+  <KRWF_RimKata_EnableRimKataP>RimKata-P</KRWF_RimKata_EnableRimKataP>
+  <KRWF_RimKata_EnableRimKataI>RimKata-I</KRWF_RimKata_EnableRimKataI>
+  <KRWF_RimKata_EnableRimKataG>RimKata-G</KRWF_RimKata_EnableRimKataG>
+  <KRWF_RimKata_EnableSerumDependency>Riippuvuus tunteita turruttavasta seerumista</KRWF_RimKata_EnableSerumDependency>
+  <KRWF_RimKata_TraitSelection>Valitse ominaisuudet</KRWF_RimKata_TraitSelection>
+  <KRWF_RimKata_ShootingLevelRequirement>Ampumistaso</KRWF_RimKata_ShootingLevelRequirement>
+  <KRWF_RimKata_MeleeLevelRequirement>Lähitaistelutaso</KRWF_RimKata_MeleeLevelRequirement>
+  <KRWF_RimKata_ResetTraitSelection>Nollaa valinta</KRWF_RimKata_ResetTraitSelection>
+  <KRWF_RimKata_QualificationDescription>Ennakoi lähietäisyyden tulitaisteluja ja reagoi niihin. Voi käyttää RimKataa.</KRWF_RimKata_QualificationDescription>
+  <KRWF_RimKata_QualificationRequirements>Vaatimukset</KRWF_RimKata_QualificationRequirements>
+  <KRWF_RimKata_QualificationTraits>Ominaisuudet ({0})</KRWF_RimKata_QualificationTraits>
+  <KRWF_RimKata_QualificationShooting>Ampumistaso</KRWF_RimKata_QualificationShooting>
+  <KRWF_RimKata_QualificationMelee>Lähitaistelutaso</KRWF_RimKata_QualificationMelee>
+  <KRWF_RimKata_CandidateLimitHeader>Kandidaattirajat</KRWF_RimKata_CandidateLimitHeader>
+  <KRWF_RimKata_TouchCandidateLimit>Lähitaisteluetäisyys</KRWF_RimKata_TouchCandidateLimit>
+  <KRWF_RimKata_ShortCandidateLimit>Lyhyt kantama</KRWF_RimKata_ShortCandidateLimit>
+  <KRWF_RimKata_MediumCandidateLimit>Keskipitkä kantama</KRWF_RimKata_MediumCandidateLimit>
+  <KRWF_RimKata_LongCandidateLimit>Pitkä kantama</KRWF_RimKata_LongCandidateLimit>
+  <KRWF_RimKata_BeyondCandidateLimit>Pitkän kantaman ulkopuolella</KRWF_RimKata_BeyondCandidateLimit>
+  <KRWF_RimKata_VisualGuidanceHeader>Visuaaliset apukeinot</KRWF_RimKata_VisualGuidanceHeader>
+  <KRWF_RimKata_ShowRangedWeaponCooldown>Etäaseen palautumisaika</KRWF_RimKata_ShowRangedWeaponCooldown>
+  <KRWF_RimKata_ShowMeleeWeaponAimTime>Lähitaisteluaseen tähtäysaika</KRWF_RimKata_ShowMeleeWeaponAimTime>
+  <KRWF_RimKata_ShowFocusedAttackLine>Kohdistetun hyökkäyksen kohdeviiva</KRWF_RimKata_ShowFocusedAttackLine>
+  <KRWF_RimKata_ModVisualsHeader>Animaatiot</KRWF_RimKata_ModVisualsHeader>
+  <KRWF_RimKata_ImmediateTumbleChance>Välittömän kuperkeikan mahdollisuus</KRWF_RimKata_ImmediateTumbleChance>
+  <KRWF_RimKata_ResponseAttackerSpinChance>Mahdollisuus pyöräyttää hyökkääjää torjunnassa</KRWF_RimKata_ResponseAttackerSpinChance>
+  <KRWF_RimKata_ResponseAccidentalFireChance>Harhalaukauksen mahdollisuus torjunnan jälkeen</KRWF_RimKata_ResponseAccidentalFireChance>
+  <KRWF_RimKata_ResponseWeaponDurabilityLossChance>Aseen kestävyyden menetyksen mahdollisuus onnistuneen torjunnan jälkeen</KRWF_RimKata_ResponseWeaponDurabilityLossChance>
+  <KRWF_RimKata_ResponseWeaponDurabilityLossAmount>Aseen kestävyyden menetys onnistuneen torjunnan jälkeen</KRWF_RimKata_ResponseWeaponDurabilityLossAmount>
+  <KRWF_RimKata_UnarmedWeaponStealChance>Aseen varastamisen mahdollisuus onnistuneen aseettoman torjunnan jälkeen</KRWF_RimKata_UnarmedWeaponStealChance>
+
+  <KRWF_RimKata_InspectSlotPrimary>Ensisijainen</KRWF_RimKata_InspectSlotPrimary>
+  <KRWF_RimKata_InspectSlotSecondary>Toissijainen</KRWF_RimKata_InspectSlotSecondary>
+  <KRWF_RimKata_InspectIntercepting>{0}: torjuu kohteen {1}</KRWF_RimKata_InspectIntercepting>
+  <KRWF_RimKata_InspectCachedTarget>{0}: seuraava kohde {1}</KRWF_RimKata_InspectCachedTarget>
+  <KRWF_RimKata_InspectCooldown>{0}: palautuu</KRWF_RimKata_InspectCooldown>
+  <KRWF_RimKata_SecondaryMenuAttack>Hyökkää</KRWF_RimKata_SecondaryMenuAttack>
+  <KRWF_RimKata_SecondaryMissingHand>Toissijaista asetta ei voi varustaa ilman kättä.</KRWF_RimKata_SecondaryMissingHand>
+  <KRWF_RimKata_SecondaryMenuSwap>Vaihda</KRWF_RimKata_SecondaryMenuSwap>
+  <KRWF_RimKata_SecondaryMenuSwapCombat>Vaihda (taistelussa)</KRWF_RimKata_SecondaryMenuSwapCombat>
+  <KRWF_RimKata_DebugMenuLabel>RimKata-virheenkorjaus</KRWF_RimKata_DebugMenuLabel>
+  <KRWF_RimKata_DebugHUDOption>HUD</KRWF_RimKata_DebugHUDOption>
+  <KRWF_RimKata_DebugSearchRangeOption>Hakukantama</KRWF_RimKata_DebugSearchRangeOption>
+
+  <KRWF_RimKata_RangePresetShortFallback>Lyhyt (aseen kantama)</KRWF_RimKata_RangePresetShortFallback>
+  <KRWF_RimKata_RangePresetMediumFallback>Keskipitkä (aseen kantama)</KRWF_RimKata_RangePresetMediumFallback>
+  <KRWF_RimKata_RangePresetLongFallback>Pitkä (aseen kantama)</KRWF_RimKata_RangePresetLongFallback>
+  <KRWF_RimKata_CooldownVanillaBreakdown>RimKata-palautumisaikakertoimen laskenta:</KRWF_RimKata_CooldownVanillaBreakdown>
+  <KRWF_RimKata_CooldownVanillaFactor>Etähyökkäysten palautumisajan peruskerroin: {0}</KRWF_RimKata_CooldownVanillaFactor>
+  <KRWF_RimKata_CooldownArmorFactorApplied>Käytössä olevan haarniskan muunnin: ×{0} (käytössä)</KRWF_RimKata_CooldownArmorFactorApplied>
+  <KRWF_RimKata_CooldownArmorFactorInactive>Käytössä olevan haarniskan muunnin: ×100 % (käytössä olevaa haarniskaa ei ole puettu)</KRWF_RimKata_CooldownArmorFactorInactive>
+  <KRWF_RimKata_MeleeFallChance>Kaatumisen todennäköisyys</KRWF_RimKata_MeleeFallChance>
+  <KRWF_RimKata_FeatureProneFire>Ampuminen makuulta</KRWF_RimKata_FeatureProneFire>
+  <KRWF_RimKata_FeatureCrawlFire>Ampuminen ryömiessä</KRWF_RimKata_FeatureCrawlFire>
+  <KRWF_RimKata_ProneMissChance>Lisätodennäköisyys välttää osuma makuulla</KRWF_RimKata_ProneMissChance>
+  <KRWF_RimKata_ProneHuntingStealthBonus>Metsästyksen hiiviskelybonus makuulla</KRWF_RimKata_ProneHuntingStealthBonus>
+  <KRWF_RimKata_ProneResumeDelay>Odotusaika ennen uudelleen makuulle menoa</KRWF_RimKata_ProneResumeDelay>
+  <KRWF_RimKata_MeleeFallDuration>Maassaoloaika kaatumisen jälkeen</KRWF_RimKata_MeleeFallDuration>
+  <KRWF_RimKata_FallenFriendlyFireAvoidChance>Oman tulen välttäminen kaatuneena</KRWF_RimKata_FallenFriendlyFireAvoidChance>
+  <KRWF_RimKata_BreachSlideDuration>Liikkumisaika läpimurron aikana</KRWF_RimKata_BreachSlideDuration>
+  <KRWF_RimKata_BreachWaitDuration>Odotusaika läpimurron määränpäähän saavuttua</KRWF_RimKata_BreachWaitDuration>
+  <KRWF_RimKata_DefaultsHeader>Oletusarvot</KRWF_RimKata_DefaultsHeader>
+  <KRWF_RimKata_CrawlFireDefaultAllowed>Salli ampuminen ryömiessä</KRWF_RimKata_CrawlFireDefaultAllowed>
+  <KRWF_RimKata_AutoSubdueReleaseDowned>Vapauta kaatuneet kohteet automaattisesta taltutuksesta</KRWF_RimKata_AutoSubdueReleaseDowned>
+  <KRWF_RimKata_SmoothAimTransition>Sulavat tähtäyssiirtymät</KRWF_RimKata_SmoothAimTransition>
+  <KRWF_RimKata_FeatureSubdue>Taltuta</KRWF_RimKata_FeatureSubdue>
+  <KRWF_RimKata_FeatureAutoSubdue>Automaattinen taltutus</KRWF_RimKata_FeatureAutoSubdue>
+  <KRWF_RimKata_Subdue>Taltuta</KRWF_RimKata_Subdue>
+  <KRWF_RimKata_SubdueMassLimit>Taltuttamisen massaraja</KRWF_RimKata_SubdueMassLimit>
+  <KRWF_RimKata_SubdueImpactStunDuration>Taltutuksen törmäystainnutuksen kesto</KRWF_RimKata_SubdueImpactStunDuration>
+  <KRWF_RimKata_AutoSubdueHoldDuration>Automaattisen taltutuksen pitoaika</KRWF_RimKata_AutoSubdueHoldDuration>
+  <KRWF_RimKata_SubdueAttack>Taltutushyökkäys</KRWF_RimKata_SubdueAttack>
+  <KRWF_RimKata_SubdueAttackDesc>Hyökkää kannetun hahmon kimppuun. Pois käytöstä jokaisen taltutuksen alussa.</KRWF_RimKata_SubdueAttackDesc>
+  <KRWF_RimKata_SubdueActions>Taltutustoiminnot</KRWF_RimKata_SubdueActions>
+  <KRWF_RimKata_SubdueActionsDesc>Heitä kannettu hahmo tai laske hänet maahan.</KRWF_RimKata_SubdueActionsDesc>
+  <KRWF_RimKata_SubdueThrow>Heitä</KRWF_RimKata_SubdueThrow>
+  <KRWF_RimKata_SubdueTooHeavy>{0} on liian painava (raja: {1} kg).</KRWF_RimKata_SubdueTooHeavy>
+  <KRWF_RimKata_SubdueUnavailable>Tätä kohdetta ei voi taltuttaa.</KRWF_RimKata_SubdueUnavailable>
+  <KRWF_RimKata_SubdueDesc>Nosta ja pidä kiinni hahmosta sallitun massarajan puitteissa.</KRWF_RimKata_SubdueDesc>
+  <KRWF_RimKata_SubdueAllowAttack>Salli hyökkäykset</KRWF_RimKata_SubdueAllowAttack>
+  <KRWF_RimKata_SubdueAllowAttackDesc>Sallii hyökkäämisen pidettäessä hahmoa otteessa. Poistaminen käytöstä pysäyttää nykyisen hyökkäyksen; ottaminen uudelleen käyttöön ei jatka sitä automaattisesti.</KRWF_RimKata_SubdueAllowAttackDesc>
+  <KRWF_RimKata_SubdueAttackNotAllowed>Hyökkäykset on estetty.</KRWF_RimKata_SubdueAttackNotAllowed>
+  <KRWF_RimKata_FeatureSubdueDamageTransfer>Vahingon siirto</KRWF_RimKata_FeatureSubdueDamageTransfer>
+  <KRWF_RimKata_FeatureSubdueDamageTransferDesc>Siirtää saadun vahingon kiinni pidettyyn hahmoon. Kun toiminto on pois käytöstä, hahmo päästetään irti väistettäessä tai lähitaistelun alkaessa.</KRWF_RimKata_FeatureSubdueDamageTransferDesc>
+  <KRWF_RimKata_FeatureSliding>Liuku</KRWF_RimKata_FeatureSliding>
+  <KRWF_RimKata_FeatureShakeOff>Ravistelu</KRWF_RimKata_FeatureShakeOff>
+  <KRWF_RimKata_FeatureDirectionalFire>Hajatuli</KRWF_RimKata_FeatureDirectionalFire>
+  <KRWF_RimKata_SlidingChance>Liu’un todennäköisyys</KRWF_RimKata_SlidingChance>
+  <KRWF_RimKata_ShakeOffChance>Ravistelun todennäköisyys</KRWF_RimKata_ShakeOffChance>
+
+  <KRWF_RimKata_GeneProbability>Geenien todennäköisyys</KRWF_RimKata_GeneProbability>
+  <KRWF_RimKata_GeneProbabilityPresent>Mahdollinen</KRWF_RimKata_GeneProbabilityPresent>
+  <KRWF_RimKata_GeneProbabilityAbsent>Ei mahdollisuutta</KRWF_RimKata_GeneProbabilityAbsent>
+  <KRWF_RimKata_ResetAllGeneProbabilities>Palauta kaikki</KRWF_RimKata_ResetAllGeneProbabilities>
+  <KRWF_RimKata_ResetFilteredGeneProbabilities>Palauta suodatetut tulokset</KRWF_RimKata_ResetFilteredGeneProbabilities>
+  <KRWF_RimKata_TargetShambler>Hoipertelija</KRWF_RimKata_TargetShambler>
+  <KRWF_RimKata_GeneProbabilityCreepJoiner>Creepjoiner</KRWF_RimKata_GeneProbabilityCreepJoiner>
+
+  <KRWF_RimKata_StrengthEnhancement>Lihasvoiman vahvistus</KRWF_RimKata_StrengthEnhancement>
+  <KRWF_RimKata_StrengthPermissionExplanation>Kun ”{0}” on käytössä, voidaan varustautua kahdella ”{1}”-aseella.</KRWF_RimKata_StrengthPermissionExplanation>
+  <KRWF_RimKata_StrengthIncrease>Voiman lisäys</KRWF_RimKata_StrengthIncrease>
+  <KRWF_RimKata_AllowedStrengthIncrease>Sallitun varustuksen voiman lisäys</KRWF_RimKata_AllowedStrengthIncrease>
+  <KRWF_RimKata_IndependentStrengthIncrease>Lisävoima sallimisesta riippumatta</KRWF_RimKata_IndependentStrengthIncrease>
+  <KRWF_RimKata_StrengthImplants>Implantit</KRWF_RimKata_StrengthImplants>
+  <KRWF_RimKata_StrengthOverrideTip>Lisää voimaa sallimisesta riippumatta (tyhjä kenttä: 0 %). Sallituilla kohteilla arvo lisätään voiman oletuslisäykseen. Lihavoidut arvot on asetettu erikseen.</KRWF_RimKata_StrengthOverrideTip>
+  <KRWF_RimKata_ResetAllStrength>Palauta kaikki</KRWF_RimKata_ResetAllStrength>
+  <KRWF_RimKata_ResetFilteredStrength>Palauta suodatetut tulokset</KRWF_RimKata_ResetFilteredStrength>
+  <KRWF_RimKata_FeatureFlyingKick>Hyppypotku</KRWF_RimKata_FeatureFlyingKick>
+  <KRWF_RimKata_FlyingKickStunChance>Hyppypotkun tainnutustodennäköisyys</KRWF_RimKata_FlyingKickStunChance>
+  <KRWF_RimKata_FlyingKickDamage>Hyppypotkun vahinko</KRWF_RimKata_FlyingKickDamage>
+  <KRWF_RimKata_FeatureKick>Potku</KRWF_RimKata_FeatureKick>
+  <KRWF_RimKata_KickCooldown>Potkun palautumisaika</KRWF_RimKata_KickCooldown>
+  <KRWF_RimKata_KickDamage>Potkun vahinko</KRWF_RimKata_KickDamage>
+  <KRWF_RimKata_KickChance>Potkun todennäköisyys</KRWF_RimKata_KickChance>
+  <KRWF_RimKata_FeaturePushKick>Työntöpotku</KRWF_RimKata_FeaturePushKick>
+  <KRWF_RimKata_PushKickMassLimit>Työntöpotkun massaraja</KRWF_RimKata_PushKickMassLimit>
+</LanguageData>

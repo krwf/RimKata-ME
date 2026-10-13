@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimKata_EquipSecondary.reportString>a equipar TargetA como arma secundária RimKata.</RimKata_EquipSecondary.reportString>
+  <RimKata_Breach.reportString>A arrombar a porta.</RimKata_Breach.reportString>
+  <RimKata_Subdue.reportString>A subjugar TargetA.</RimKata_Subdue.reportString>
+  <RimKata_SubdueCombat.reportString>a atacar TargetA enquanto mantém a imobilização.</RimKata_SubdueCombat.reportString>
+</LanguageData>

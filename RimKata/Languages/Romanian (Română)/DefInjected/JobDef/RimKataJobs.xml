@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimKata_EquipSecondary.reportString>echipează TargetA ca armă secundară RimKata.</RimKata_EquipSecondary.reportString>
+  <RimKata_Breach.reportString>Sparge ușa.</RimKata_Breach.reportString>
+  <RimKata_Subdue.reportString>Imobilizează TargetA.</RimKata_Subdue.reportString>
+  <RimKata_SubdueCombat.reportString>atacă TargetA menținând imobilizarea.</RimKata_SubdueCombat.reportString>
+</LanguageData>

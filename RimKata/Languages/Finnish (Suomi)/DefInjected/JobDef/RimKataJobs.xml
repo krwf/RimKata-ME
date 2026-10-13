@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RimKata_EquipSecondary.reportString>varustaa kohteen TargetA RimKata-toissijaisaseeksi.</RimKata_EquipSecondary.reportString>
+  <RimKata_Breach.reportString>Murtautuu ovesta läpi.</RimKata_Breach.reportString>
+  <RimKata_Subdue.reportString>Taltuttaa kohdetta TargetA.</RimKata_Subdue.reportString>
+  <RimKata_SubdueCombat.reportString>hyökkää kohteeseen TargetA pitäen samalla otteen.</RimKata_SubdueCombat.reportString>
+</LanguageData>
