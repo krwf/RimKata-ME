@@ -1,0 +1,14 @@
+/Assemblies/
+/1.6/Assemblies/
+/1.7/Assemblies/
+/Source/bin/
+/Source/obj/
+/Source/.vs/
+/.codex-build/
+/.vs/
+/equipment-memory/
+*.txt
+*.user
+*.suo
+*.md
+*.ps1
